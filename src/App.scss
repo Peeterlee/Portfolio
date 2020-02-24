@@ -1,0 +1,15 @@
+$breakpoint1 : 1373px;
+
+@import './fonts.scss';
+@import './comps/Title/Title.scss';
+@import './comps/Top/Top.scss';
+@import './comps/Bottom/Bottom.scss';
+@import './comps/Bottom/Work/Work.scss';
+
+.App {
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    height:100vh;
+    overflow: hidden;
+}

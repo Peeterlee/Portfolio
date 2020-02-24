@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e1b7708a.chunk.css",
+    "main.js": "/portfolio/static/js/main.1f3a5747.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1f3a5747.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.44087e9b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.44087e9b.js.map",
+    "static/js/2.796ec185.chunk.js": "/portfolio/static/js/2.796ec185.chunk.js",
+    "static/js/2.796ec185.chunk.js.map": "/portfolio/static/js/2.796ec185.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.91f92da64516d3d2f2c3fda75e43b2ca.js": "/portfolio/precache-manifest.91f92da64516d3d2f2c3fda75e43b2ca.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.e1b7708a.chunk.css.map": "/portfolio/static/css/main.e1b7708a.chunk.css.map",
+    "static/js/2.796ec185.chunk.js.LICENSE.txt": "/portfolio/static/js/2.796ec185.chunk.js.LICENSE.txt",
+    "static/media/diary.png": "/portfolio/static/media/diary.ce9f8ee3.png",
+    "static/media/easemble_content.PNG": "/portfolio/static/media/easemble_content.d03c5722.PNG",
+    "static/media/foodmatch_content.png": "/portfolio/static/media/foodmatch_content.c555ec4f.png",
+    "static/media/foodmatch_cover.png": "/portfolio/static/media/foodmatch_cover.966c2c10.png",
+    "static/media/happihour_content.jpg": "/portfolio/static/media/happihour_content.39b57291.jpg",
+    "static/media/happihour_logo.png": "/portfolio/static/media/happihour_logo.36ae4f34.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44087e9b.js",
+    "static/js/2.796ec185.chunk.js",
+    "static/css/main.e1b7708a.chunk.css",
+    "static/js/main.1f3a5747.chunk.js"
+  ]
+}
