@@ -5,7 +5,7 @@
     margin-right:30px;
 
     @media screen and (max-width: 629px){
-       margin-right: 10px; 
+       margin-right: 20px; 
     }
     
 
@@ -16,7 +16,7 @@
         border-radius: 5px;
         background-position: center;
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: 100% 100%;
         transition-duration: 0.5s;
         bottom:0;
         left:0;

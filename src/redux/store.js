@@ -3,7 +3,8 @@ import {createStore} from 'redux';
 const initialState = {
     display:'about',
     work_class:'hide_big_work_img',
-    name:'default'
+    name:'default',
+    screensize:0
 }
 
 export default createStore(function(state=initialState, action){
@@ -16,6 +17,14 @@ export default createStore(function(state=initialState, action){
                 name:action.workname
             }
         }
+
+        case 'detect_screen_change':{
+            return {
+                ...state,
+                screensize:action.size
+            }
+        }
+
         default:
             return state;
     }

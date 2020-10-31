@@ -2,9 +2,8 @@ $breakpoint1 : 1373px;
 
 @import './fonts.scss';
 @import './comps/Title/Title.scss';
-@import './comps/Top/Top.scss';
-@import './comps/Bottom/Bottom.scss';
-@import './comps/Bottom/Work/Work.scss';
+@import './comps/Work/Work.scss';
+@import './pages/HomeStyles.scss';
 
 .App {
     display:flex;
