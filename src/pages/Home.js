@@ -122,13 +122,13 @@ function Home(props){
                 <Title />
                 <div className="below_title">
                     <div className="top_left">
-                        {/* <div className={about_class}>
+                        <div className={about_class}>
                             <div className="hi">Hi! I'm Peter</div> <br/>
                             <div className="me_desc">
                                 A hardworking fullstack developer proficient in building application components, translating mockups into responsive and interactive features, designing scalable relational databases, implementing RESTful APIs, and developing test automation infrastructure
                             </div>
-                        </div> */}
-                        <div className='show_project_desc'>
+                        </div>
+                        <div className={project_class}>
                             <div className="p_name">{p_name}</div>
                             <div className="date">{date}</div>
                             <div className="position">{position}</div>
@@ -137,7 +137,7 @@ function Home(props){
                             <div className="role"><span>Role: </span>{p_role}</div>
                         </div>
                     </div>
-                    <div className="top_right"><img alt="work" src={content_img} className='show_big_work_img' /> </div>
+                    <div className="top_right"><img alt="work" src={content_img} className={props.work_class}/> </div>
                 </div>      
             </div>
 
