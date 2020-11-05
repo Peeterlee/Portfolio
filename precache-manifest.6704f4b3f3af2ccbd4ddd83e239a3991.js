@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8616ba610c5ababe4a550b9819fbecab",
+    "revision": "b697604215e91e8928143c0b5318e0e7",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "9a459bcd918b12acce5a",
-    "url": "/portfolio/static/css/main.390715c3.chunk.css"
+    "revision": "2d109d82b9d0be4468e8",
+    "url": "/portfolio/static/css/main.777e9973.chunk.css"
   },
   {
     "revision": "cfa7cf46a66310130e9f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.a9a049ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a459bcd918b12acce5a",
-    "url": "/portfolio/static/js/main.609672c3.chunk.js"
+    "revision": "2d109d82b9d0be4468e8",
+    "url": "/portfolio/static/js/main.000f8f85.chunk.js"
   },
   {
     "revision": "0d98471f6c3b69ca4251",
@@ -28,12 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/careerbuild-top.6309f46f.png"
   },
   {
-    "revision": "db39be6590029dd6c61aa2ce7045b638",
-    "url": "/portfolio/static/media/careerbuild.db39be65.png"
+    "revision": "218ceb4a09fa6ab73c1c11347e553c65",
+    "url": "/portfolio/static/media/careerbuild.218ceb4a.png"
   },
   {
     "revision": "ce9f8ee35d848942fb7ef498f6fcbf0e",
     "url": "/portfolio/static/media/diary.ce9f8ee3.png"
+  },
+  {
+    "revision": "1e6ac002c79697d894ada6fd77b13d79",
+    "url": "/portfolio/static/media/easemble.1e6ac002.png"
   },
   {
     "revision": "200e0cd24dd71c6aae34f98a8f791903",
@@ -44,27 +48,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/foodmatch_content.c555ec4f.png"
   },
   {
-    "revision": "966c2c10349bb0653994840101488994",
-    "url": "/portfolio/static/media/foodmatch_cover.966c2c10.png"
+    "revision": "6b10229d427c27822b54e37f19f3efa8",
+    "url": "/portfolio/static/media/foodmatch_cover.6b10229d.png"
   },
   {
     "revision": "ae64d0552b9001ea9a8a74b61f7624ff",
     "url": "/portfolio/static/media/happihour_content.ae64d055.jpg"
   },
   {
-    "revision": "36ae4f34f62d5ea37941427abbc89cf0",
-    "url": "/portfolio/static/media/happihour_logo.36ae4f34.png"
+    "revision": "af5f9f40fe8d3fb5d502b84305cca495",
+    "url": "/portfolio/static/media/happihour_logo.af5f9f40.png"
   },
   {
     "revision": "14ac37c71b13db04b75281d4f61da173",
     "url": "/portfolio/static/media/marksreview-top.14ac37c7.png"
   },
   {
-    "revision": "8e56ebbbc8c2dc5ee2995461fb2b7828",
-    "url": "/portfolio/static/media/marksreview.8e56ebbb.png"
+    "revision": "2517fac3b13019cc5e15ca60a378ac1c",
+    "url": "/portfolio/static/media/marksreview.2517fac3.png"
   },
   {
     "revision": "327daf82b621804409693814e47a0ef8",
     "url": "/portfolio/static/media/quehack-top.327daf82.jpg"
+  },
+  {
+    "revision": "c296cdf28c104ff7299ac4a2a40c88bd",
+    "url": "/portfolio/static/media/quehack.c296cdf2.png"
   }
 ]);
