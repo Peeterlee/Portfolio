@@ -1,47 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b697604215e91e8928143c0b5318e0e7",
+    "revision": "6fde81793bc0252c9ea523ffaf4e3c6a",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "2d109d82b9d0be4468e8",
-    "url": "/portfolio/static/css/main.777e9973.chunk.css"
+    "revision": "d6277441dd9fe3b8c5f7",
+    "url": "/portfolio/static/css/main.0711a4d1.chunk.css"
   },
   {
-    "revision": "cfa7cf46a66310130e9f",
-    "url": "/portfolio/static/js/2.a9a049ae.chunk.js"
+    "revision": "083214c69bb955f4ab99",
+    "url": "/portfolio/static/js/2.975f3160.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/portfolio/static/js/2.a9a049ae.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.975f3160.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d109d82b9d0be4468e8",
-    "url": "/portfolio/static/js/main.000f8f85.chunk.js"
+    "revision": "d6277441dd9fe3b8c5f7",
+    "url": "/portfolio/static/js/main.21ab2673.chunk.js"
   },
   {
     "revision": "0d98471f6c3b69ca4251",
     "url": "/portfolio/static/js/runtime-main.44087e9b.js"
   },
   {
-    "revision": "6309f46f2ed5664eeac1a10224dea9d4",
-    "url": "/portfolio/static/media/careerbuild-top.6309f46f.png"
+    "revision": "b53bd128b7adefa3a707737109a0c0f8",
+    "url": "/portfolio/static/media/careerbuild-top.b53bd128.png"
   },
   {
     "revision": "218ceb4a09fa6ab73c1c11347e553c65",
     "url": "/portfolio/static/media/careerbuild.218ceb4a.png"
   },
   {
-    "revision": "ce9f8ee35d848942fb7ef498f6fcbf0e",
-    "url": "/portfolio/static/media/diary.ce9f8ee3.png"
-  },
-  {
     "revision": "1e6ac002c79697d894ada6fd77b13d79",
     "url": "/portfolio/static/media/easemble.1e6ac002.png"
   },
   {
-    "revision": "200e0cd24dd71c6aae34f98a8f791903",
-    "url": "/portfolio/static/media/easemble_content.200e0cd2.png"
+    "revision": "f91582624940fc0b6c0edec29ebace40",
+    "url": "/portfolio/static/media/easemble_content.f9158262.png"
   },
   {
     "revision": "c555ec4f55d696d03479ede6b17bca54",
@@ -52,24 +48,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/foodmatch_cover.6b10229d.png"
   },
   {
-    "revision": "ae64d0552b9001ea9a8a74b61f7624ff",
-    "url": "/portfolio/static/media/happihour_content.ae64d055.jpg"
+    "revision": "ffa4407b18b4b5c839e83a8d70d87e51",
+    "url": "/portfolio/static/media/happihour_content.ffa4407b.png"
   },
   {
     "revision": "af5f9f40fe8d3fb5d502b84305cca495",
     "url": "/portfolio/static/media/happihour_logo.af5f9f40.png"
   },
   {
-    "revision": "14ac37c71b13db04b75281d4f61da173",
-    "url": "/portfolio/static/media/marksreview-top.14ac37c7.png"
+    "revision": "bb1cd1a7eee375e992dd825c69c646d3",
+    "url": "/portfolio/static/media/marksreview-top.bb1cd1a7.png"
   },
   {
     "revision": "2517fac3b13019cc5e15ca60a378ac1c",
     "url": "/portfolio/static/media/marksreview.2517fac3.png"
   },
   {
-    "revision": "327daf82b621804409693814e47a0ef8",
-    "url": "/portfolio/static/media/quehack-top.327daf82.jpg"
+    "revision": "4da6e3804e5b978622a177a0244d08a1",
+    "url": "/portfolio/static/media/quehack-top.4da6e380.png"
   },
   {
     "revision": "c296cdf28c104ff7299ac4a2a40c88bd",
